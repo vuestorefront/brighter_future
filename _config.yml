@@ -16,7 +16,7 @@ baseurl: 'https://vuestorefront.github.io/brighter_future/'
 title: 'A brighter future'
 description: 'Tech Mentorship for the young refugees'
 permalink: pretty
-logo: ""
+logo: ''
 
 sass:
   style: compressed # Style compression
