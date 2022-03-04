@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+## A brighter future - Tech Mentorship for the young refugees
 
-You can use the [editor on GitHub](https://github.com/vuestorefront/brighter_future/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+> Once you start clapping your hands, you never stop, the time between the claps gets longer. The same goes for war and peace.
+> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We were already living in a hard time, with a pandemic changing our way of life and modifying the future of the youth, with less social interaction and reducing activities. Now we are seeing a war being broadcast by those who are struggling and fighting for their land for the first time.
 
-### Markdown
+More than 1M refugees could flee out of Ukraine without work, school, or a place to stay. The solidarity of the EU and especially the Polish people are giving them a new hope to start their lives once again.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A new opportunity to bring something new to the youth is significant with all those changes. Creating a mentorship dedicated to teaching about coding, IT, and guidance into the tech world can introduce the young into a new world. Teach a new skill that they can use anywhere, and in hard times can re-focus from the horrendous things happening in the war.
 
-```markdown
-Syntax highlighted code block
+Parents are fleeing their country without any resources for the future of their kids, and the feeling of being without any resources for the future can generate stress and problems for the youth. We want to help the parents and their children in this hard time. By giving them an opportunity do develop a new skill, and also create a new generation of developers that can use their knowledge for good and peace.
 
-# Header 1
-## Header 2
-### Header 3
+## Mentors
 
-- Bulleted
-- List
+Mentors are being selected to teach coding, algorithms, logic, and web development. Those mentors will guide the youth. We are seeking partners and volunteer to help with the guidance of the youth in this path of learning new skills and a new career for their life.
 
-1. Numbered
-2. List
+The mentors are being selected based on their skills, languages they speak, and availability to help.
 
-**Bold** and _Italic_ and `Code` text
+We understand that most of the kids will be affected with PTSD, and will be in a stressful situation, so we are also gathering help from specialized medical and therapists to help on how to deal with the kids, and help them when possible.
 
-[Link](url) and ![Image](src)
-```
+> If you or someone you know can be a mentor in this program, please fill out this form to join our mentor program [https://forms.gle/9pcAdQNALc5WyhZC8](https://forms.gle/9pcAdQNALc5WyhZC8);
+> 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Online Training
 
-### Jekyll Themes
+We are seeking companies and training organizations that are willing to help in this project, by providing online training, courses, and materials to support this project.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vuestorefront/brighter_future/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We want to support the mentee with the best solutions, and give them the ability to be able to continue their study anytime, without being focused only when they are paired with their mentors.
 
-### Support or Contact
+There is a gap in the courses and material available in Russian and Ukrainian languages, but we want to make sure that, if we can find some, we can make it available for the mentees. 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+It's important to also provide materials in English, so we can start their development of the English skills as well.
+
+> If you or your company can provide free courses or training, let us know which you can provide with this form [https://forms.gle/k2bcoLwB7F5NUk8f9](https://forms.gle/k2bcoLwB7F5NUk8f9);
+> 
+
+## Hardware
+
+Most refugees didn't have time to grab their PCs or notebooks by fleeing from their country, and they had to carry only a small backpack and some clothes to use on the trip.
+
+We know that in this special situation any kind of communication device can become a weapon of hope and peace, but we want to use the devices as they are intended to be used, for communication and bring people together, not as any kind of weapon. 
+
+> If you can provide hardware for the program, new or used, please let us know which hardware and how many let us know in this form [https://forms.gle/LVn57dgYfrm21KtM7](https://forms.gle/LVn57dgYfrm21KtM7);
+> 
+
+## Social & Communication
+
+Discord is a well-known communication software by the younger generation and can provide all the needed tooling in one single place, audio, video, text, and screen/file sharing.
+
+> We created a Discord server, where the mentorship will take place, [https://discord.gg/n6z4h2sRAM](https://discord.gg/n6z4h2sRAM)
+> 
+
+## Security & Support
+
+It's known that people can try to sneak into this program to receive benefits. Still, we are working together with Ukrainian organizations to ensure that only Ukrainian refugees will benefit from this program.
+
+We want to make sure that all the companies that are helping in this project, can be remembered, and have their mark in this project.
+
+As this is an initial project, which was generated by the needs of some of our colleagues that were struck by the war and needed our help to support their kids with courses and coding material and mentorship, as they now moved, and don't have school and need to continue their lives in a new and totally different country.
