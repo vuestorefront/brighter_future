@@ -42,15 +42,6 @@ It's important to also provide materials in English, so we can start their devel
 > If you or your company can provide free courses or training, let us know which you can provide with this form [https://forms.gle/k2bcoLwB7F5NUk8f9](https://forms.gle/k2bcoLwB7F5NUk8f9);
 > 
 
-## Hardware
-
-Most refugees didn't have time to grab their PCs or notebooks by fleeing from their country, and they had to carry only a small backpack and some clothes to use on the trip.
-
-We know that in this special situation any kind of communication device can become a weapon of hope and peace, but we want to use the devices as they are intended to be used, for communication and bring people together, not as any kind of weapon. 
-
-> If you can provide hardware for the program, new or used, please let us know which hardware and how many let us know in this form [https://forms.gle/LVn57dgYfrm21KtM7](https://forms.gle/LVn57dgYfrm21KtM7);
-> 
-
 ## Social & Communication
 
 Discord is a well-known communication software by the younger generation and can provide all the needed tooling in one single place, audio, video, text, and screen/file sharing.
