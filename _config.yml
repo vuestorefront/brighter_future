@@ -17,3 +17,7 @@ title: 'A brighter future'
 description: 'Tech Mentorship for the young refugees'
 permalink: pretty
 logo: ""
+
+sass:
+  style: compressed # Style compression
+css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
