@@ -21,3 +21,9 @@ logo: ''
 sass:
   style: compressed # Style compression
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
+
+fonts:
+  preconnect_urls:
+    - https://fonts.gstatic.com
+  font_urls:
+    - https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400;1,700&display=swap
