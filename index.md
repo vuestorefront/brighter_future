@@ -3,8 +3,9 @@ title: A brighter future - Tech Mentorship for the young refugees
 feature_text: |
   ## A brighter future
   Tech Mentorship for the young refugees
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://user-images.githubusercontent.com/1626923/156821193-6426f7b6-89ed-4105-ac82-d639a4239c5c.jpg"
 ---
+
 
 > Once you start clapping your hands, you never stop, the time between the claps gets longer. The same goes for war and peace.
 > 
