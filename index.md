@@ -1,5 +1,4 @@
 ---
-title: A brighter future - Tech Mentorship for the young refugees
 feature_text: |
   ## A brighter future
   Tech Mentorship for the young refugees
