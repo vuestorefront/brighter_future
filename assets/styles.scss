@@ -5,9 +5,11 @@ styles: true
 
 @import "alembic";
 
-$accentColour: #005BBB;
-$linkColour: #FFD500;
-$hoverColour: #ceab00;
-$focusColour: #005BBB;
-$bodyColour: #111111;
+$accentColour: #FFD500;
+
+// Text colours
 $headingColour: #353535;
+$bodyColour: #111111;
+$linkColour: #005BBB;
+$hoverColour: #004288;
+$focusColour: #FFD500;
