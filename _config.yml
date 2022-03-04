@@ -8,15 +8,11 @@ exclude:
 - Gemfile.lock
 
 plugins:
-- jekyll-seo-tag
-- jekyll-commonmark
-- jekyll-include-cache
-- jemoji
 - jekyll-remote-theme
 
 # Site settings
 url: 'https://vuestorefront.github.io/brighter_future/'
-baseurl: ''
+baseurl: 'https://vuestorefront.github.io/brighter_future/'
 title: 'A brighter future'
 description: 'Tech Mentorship for the young refugees'
 permalink: pretty
